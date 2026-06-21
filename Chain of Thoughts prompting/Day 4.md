@@ -85,3 +85,8 @@ PDF DESIGN REQUIREMENTS:
 End with:
 
 Generated using Chain-of-Thought Reasoning
+
+# Results
+<img width="319" height="445" alt="chain of thoughts" src="https://github.com/user-attachments/assets/cab33a23-3470-4fcf-9d6b-de4043738213" />
+
+https://claude.ai/share/07c6544a-3657-458c-994c-e4baa5eef1a9
