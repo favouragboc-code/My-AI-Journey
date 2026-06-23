@@ -1,5 +1,6 @@
-# AI Resume Optimizer
+# AI Resume Optimizer Prompt
 Upload your resume file and attach it
+
 You are an ATS optimization expert and resume writer.
 
 Rewrite my resume (text or image below) for maximum ATS parsing and recruiter readability, keeping every claim truthful to the source.
@@ -15,6 +16,11 @@ PART 1 — ATS SCORE (keep short, no full report)
 - Previous Score: __/100
 - Optimized Score: __/100
 - 5–8 bullets, each stating what you changed and why it raised the score.
+  
+# Result of ATS Score
+
+<img width="448" height="337" alt="ATS parcing" src="https://github.com/user-attachments/assets/404855ce-6eb8-49fb-9b2b-a260fa765d9b" />
+
 
 PART 2 — FINAL RESUME
 
@@ -43,6 +49,7 @@ Rules:
 - Must fit on ONE A4 page.
 - Optimize for ATS and recruiter readability.
 
+# I didn't use this prompt because I uploaded a resume
 If no resume is uploaded, ask for:
 - Name
 - Contact Information
@@ -54,3 +61,10 @@ If no resume is uploaded, ask for:
 - Target Field
 
 Then generate the resume.
+
+# Results
+
+<img width="303" height="425" alt="ATS CV" src="https://github.com/user-attachments/assets/2b8f9ac5-cf13-42bd-9bc2-b15222d168f5" />
+h
+ttps://claude.ai/share/fabecfd3-0035-42e4-a366-affc6d41b008
+
