@@ -67,3 +67,12 @@ Task | Best Model | Best Effort | Reason
 If I could use only ONE model and ONE effort level for most of my work, what would you recommend and why?
 
 Present the output in a clean, visual, beginner-friendly format.
+
+# Results
+<img width="825" height="396" alt="k5" src="https://github.com/user-attachments/assets/284491ac-6a0f-423e-afb0-8e7dc2c072a4" />
+<img width="832" height="517" alt="k4" src="https://github.com/user-attachments/assets/7f25cef7-f71c-4af8-938f-928a2258e0c8" />
+<img width="782" height="509" alt="k3" src="https://github.com/user-attachments/assets/46507c67-e4dc-4f23-a487-7137ad860a25" />
+<img width="828" height="517" alt="k2" src="https://github.com/user-attachments/assets/4b299ef1-dad6-4e88-a395-9da9387e8a18" />
+<img width="776" height="397" alt="k1" src="https://github.com/user-attachments/assets/599992b7-bf20-4444-b07d-6f03ef0ca632" />
+
+https://claude.ai/share/81b97b04-ac27-44aa-bb98-0bd767b2826e
