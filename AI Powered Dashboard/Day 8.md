@@ -70,6 +70,7 @@ Do not provide code snippets. Create a complete interactive Claude Artifact with
 <img width="1266" height="662" alt="EDB3" src="https://github.com/user-attachments/assets/0e40ee65-4ead-4a0f-b480-6768db4b0795" />
 <img width="1262" height="665" alt="EDB2" src="https://github.com/user-attachments/assets/30c9aabc-9a8e-4c49-b164-99c4878314c9" />
 <img width="1266" height="666" alt="EDB1" src="https://github.com/user-attachments/assets/07d8f86c-aeb6-4a21-83a8-49528228bc69" />
+<img width="1265" height="658" alt="EDB7" src="https://github.com/user-attachments/assets/c29c5d03-91b2-4746-961b-c09be64f2b54" />
 
 
 https://claude.ai/share/a9738d2e-7cbc-4453-987a-580229f60837
